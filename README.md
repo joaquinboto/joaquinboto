@@ -7,7 +7,7 @@ I'm a Front End developer.
 🧠 Me apasiona aprender , me emociona saber que siempre hay algo por aprender y que se pueden hacer infinidades de cosas mediante codigo.
 
 ## 🛠 Skills
-Javascript, HTML, CSS , React JS
+Javascript, HTML, CSS , Bootstrap , Sass , React JS
 
 
 
