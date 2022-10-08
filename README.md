@@ -1,14 +1,20 @@
 # Hi, I'm Joaquin Boto 👋
-I'm a Front End developer.
+I'm a Full Stack Web Developer.
 
 
 ## 🚀 About Me
 
-🧠 Me apasiona aprender , me emociona saber que siempre hay algo por aprender y que se pueden hacer infinidades de cosas mediante codigo.
+🧠 I am passionate about learning, I am excited to know that there is always something to learn and that infinite things can be done through code.
 
 ## 🛠 Skills
-Javascript, HTML, CSS , Bootstrap , Sass , React JS
-
+● HTML
+● CSS , Express , Node , 
+● SASS
+● REACT
+● EXPRESS
+● NODE
+● POSTGRES
+● MONGODB
 
 
 
