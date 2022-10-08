@@ -4,7 +4,7 @@ I'm a Full Stack Web Developer.
 
 ## 🚀 About Me
 
-🧠 I am passionate about learning, I am excited to know that there is always something to learn and that infinite things can be done through code.
+🧠 I am passionate about learning, I am passionate to know that there is always something to learn and that infinite things can be done through code.
 
 ## 🛠 Skills
 ● HTML
