@@ -28,6 +28,28 @@
 Those are only a few features of the ecommerce, if you want to discover more about the Web App
 <h3>Visit the project --> <a>https://tickethenry.vercel.app</a></h3>
 
+#About the Ecommerce
+
+Work along with a eight people team in order to design and develop an E-commerce Web App which had as main goal selling E-books online.
+
+My primary role includes deploying the project and keep it working 24/7, assigning tickets / features to my teammates, code revision, debugging, pair programming, refactoring code, create new features.
+
+Features
+ * Google Log in
+ * Password Recovery
+ * SPA (single Web Application)
+ * Shopping Cart
+ * User's CRUD
+ * Favourites events
+ * Filters combined
+ * Comments section
+ * Last Releases
+ * Payment section with Mercado Pago
+ * Admin Dashboard
+ * Publish events
+ * Assign administrators
+ 
+
 
 <h2>Countries APP</h2>
 
@@ -38,6 +60,10 @@ Those are only a few features of the ecommerce, if you want to discover more abo
 [![Activities-Home.png](https://i.postimg.cc/vT51V1Wx/Activities-Home.png)](https://postimg.cc/JH44wzYR)
 [![Detail-Countries.png](https://i.postimg.cc/kgY5DNkh/Detail-Countries.png)](https://postimg.cc/VJMwVtsj)
 
+<h3>About the proyect</h3>
 
-Those are only a few features of the ecommerce, if you want to discover more about the Web App
+* Design and develop a Countries Web App which includes: Search by continents, filters, sorts, pagination , etc. Also, new Activities can be created and published.
+
+* The App was developed using React, Redux and pure CSS for Front-end. Plus, it was developed with Node JS, Express, PostgreSQL and Sequelize for Back-end.
+
 <h3>Visit the project --> <a>https://pi-countries-silk.vercel.app</a></h3>
